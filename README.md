@@ -1,22 +1,21 @@
 <h1 align="center">👋 Hola, soy Juan Santiago Saavedra Holguín</h1>
 
 <p align="center">
-  Desarrollador de Software con interés en arquitectura limpia, seguridad informática<br>
-  y construcción de aplicaciones escalables y mantenibles.
+  Estudiante de Ingeniería de Sistemas (8.º semestre) interesado en el desarrollo de software,
+  la arquitectura limpia y la seguridad informática.
 </p>
 
 ---
 
 ## 🚀 Sobre mí
-- 💻 Enfocado en **desarrollo de software** (frontend, backend y móvil)
-- 🛡️ Interesado en **seguridad**, buenas prácticas y diseño seguro de aplicaciones
-- 🎓 Estudiante de **Ingeniería de Sistemas (8 semestre**
-- 🔧 Me gusta mejorar estructuras, procesos, diagramas y diseño lógico de sistemas
+- 💻 Desarrollando proyectos en **frontend, backend y móvil**
+- 🛡️ Con interés especial en **seguridad informática** y buenas prácticas
+- 🔧 Me gusta mejorar estructuras, procesos, diagramas y la lógica de los sistemas
 - 🧠 Siempre aprendiendo nuevas tecnologías y fortaleciendo mi stack técnico
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologías
 
 ### 💻 Lenguajes
 [![Skills](https://skillicons.dev/icons?i=ts,js,java,kotlin,py)](https://skillicons.dev)
@@ -54,7 +53,6 @@
 - **[Taller Thread & Socket (Java)](https://github.com/Melrock08/Taller_ThreadSocket)**  
   Implementaciones de concurrencia con hilos y comunicación cliente-servidor mediante sockets.
 
-
 ---
 
 ## 🌐 Contacto
@@ -68,4 +66,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Melrock08&style=for-the-badge" alt="Profile views"/>
 </p>
+
 
