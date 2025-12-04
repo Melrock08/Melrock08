@@ -10,7 +10,7 @@
 ## 🚀 Sobre mí
 - 💻 Enfocado en **desarrollo de software** (frontend, backend y móvil)
 - 🛡️ Interesado en **seguridad**, buenas prácticas y diseño seguro de aplicaciones
-- 🎓 Estudiante de **Ingeniería de Software**
+- 🎓 Estudiante de **Ingeniería de Sistemas (8 semestre**
 - 🔧 Me gusta mejorar estructuras, procesos, diagramas y diseño lógico de sistemas
 - 🧠 Siempre aprendiendo nuevas tecnologías y fortaleciendo mi stack técnico
 
@@ -45,25 +45,22 @@
 
 ## 📌 Proyectos Destacados
 
-<p align="center">
-  <a href="https://github.com/Melrock08/Proyecto_Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Melrock08&repo=Proyecto_Web&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/Melrock08/Proyecto_web_FrontEnd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Melrock08&repo=Proyecto_web_FrontEnd&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/Melrock08/Taller_ThreadSocket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Melrock08&repo=Taller_ThreadSocket&theme=transparent&hide_border=true" />
-  </a>
-</p>
+- **[Proyecto Web (Backend - Spring Boot)](https://github.com/Melrock08/Proyecto_Web)**  
+  Arquitectura modular con servicios REST, manejo de procesos, nodos y persistencia organizada.
+
+- **[Proyecto Web FrontEnd (Angular)](https://github.com/Melrock08/Proyecto_web_FrontEnd)**  
+  Interfaz completa para manipular procesos y diagramas, usando componentes reutilizables y consumo de API.
+
+- **[Taller Thread & Socket (Java)](https://github.com/Melrock08/Taller_ThreadSocket)**  
+  Implementaciones de concurrencia con hilos y comunicación cliente-servidor mediante sockets.
+
 
 ---
 
 ## 🌐 Contacto
 <div align="center">
-  <a href="mailto:correo@ejemplo.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="mailto:santiagosaavedra2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
   <a href="https://github.com/Melrock08"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-  <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
 </div>
 
 ---
