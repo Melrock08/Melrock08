@@ -18,7 +18,7 @@
 ## 🛠️ Tecnologías
 
 ### 💻 Lenguajes
-[![Skills](https://skillicons.dev/icons?i=ts,js,java,kotlin,py)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,java,kotlin)](https://skillicons.dev)
 
 ### 🌐 Web (Frontend)
 [![Skills](https://skillicons.dev/icons?i=angular,html,css,tailwind)](https://skillicons.dev)
@@ -38,7 +38,7 @@
 ---
 
 ## 📚 Actualmente aprendiendo
-[![Learning](https://skillicons.dev/icons?i=aws,flutter)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,flutter,py)](https://skillicons.dev)
 
 ---
 
