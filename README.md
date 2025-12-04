@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ### 💻 Lenguajes
 [![Skills](https://skillicons.dev/icons?i=ts,js,java,kotlin,py)](https://skillicons.dev)
